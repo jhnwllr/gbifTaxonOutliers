@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1572876872625.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "620F584A",
+    "lastKnownWriteTime" : 1572876914,
+    "last_content_update" : 1572876914123,
+    "path" : "C:/Users/ftw712/Desktop/gbifTaxonOutliers/R/get_outlier_data.R",
+    "project_path" : "R/get_outlier_data.R",
+    "properties" : {
+        "cursorPosition" : "48,11",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

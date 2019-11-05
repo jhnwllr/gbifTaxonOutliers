@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1572948592327.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D48D930D",
+    "lastKnownWriteTime" : 1572948753,
+    "last_content_update" : 1572948753523,
+    "path" : "C:/Users/ftw712/Desktop/gbifTaxonOutliers/R/outlier_data_for_dataset_taxonkey_counts.R",
+    "project_path" : "R/outlier_data_for_dataset_taxonkey_counts.R",
+    "properties" : {
+        "cursorPosition" : "2,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
