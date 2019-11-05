@@ -3,7 +3,7 @@
 Run this to compute taxonomic outliers within datasets on GBIF. This method uses `vegan::taxa2dist` to compute taxonomic distances. 
 
 
-![](https://raw.githubusercontent.com/jhnwllr/taxon_outliers/master/plots/843633a9-07cb-4918-a79f-6061b52c9dfd.png)
+![](https://raw.githubusercontent.com/jhnwllr/gbifTaxonOutliers/master/example.png)
 
 
 # spark scala part
